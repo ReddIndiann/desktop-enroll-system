@@ -1,0 +1,13 @@
+c:\users\redindian\documents\visual studio 2015\Projects\itaya\itaya\bin\Debug\itaya.exe.config
+c:\users\redindian\documents\visual studio 2015\Projects\itaya\itaya\bin\Debug\itaya.exe
+c:\users\redindian\documents\visual studio 2015\Projects\itaya\itaya\bin\Debug\itaya.pdb
+c:\users\redindian\documents\visual studio 2015\Projects\itaya\itaya\obj\Debug\itaya.Form1.resources
+c:\users\redindian\documents\visual studio 2015\Projects\itaya\itaya\obj\Debug\itaya.Properties.Resources.resources
+c:\users\redindian\documents\visual studio 2015\Projects\itaya\itaya\obj\Debug\itaya.register.resources
+c:\users\redindian\documents\visual studio 2015\Projects\itaya\itaya\obj\Debug\itaya.csproj.GenerateResource.Cache
+c:\users\redindian\documents\visual studio 2015\Projects\itaya\itaya\obj\Debug\itaya.exe
+c:\users\redindian\documents\visual studio 2015\Projects\itaya\itaya\obj\Debug\itaya.pdb
+c:\users\redindian\documents\visual studio 2015\Projects\itaya\itaya\obj\Debug\itaya.adminlogin.resources
+c:\users\redindian\documents\visual studio 2015\Projects\itaya\itaya\obj\Debug\itaya.adminmainpage.resources
+c:\users\redindian\documents\visual studio 2015\Projects\itaya\itaya\obj\Debug\itaya.csprojResolveAssemblyReference.cache
+c:\users\redindian\documents\visual studio 2015\Projects\itaya\itaya\obj\Debug\itaya.studentmainpage.resources
